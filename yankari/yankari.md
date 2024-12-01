@@ -205,6 +205,9 @@ The Yankari dataset represents a significant step forward in addressing the reso
 
 The creation of Yankari has highlighted several critical challenges in developing NLP resources for languages like Yoruba. These include the scarcity of diverse, high-quality online content, the complexities of automated processing for languages with limited existing NLP tools, and the ethical considerations surrounding data collection and potential misuse. By transparently discussing these challenges and our approaches to addressing them, we hope to contribute to the broader conversation on responsible AI development for diverse languages and cultures.
 
+## 6 Dataset usage
+The dataset is fully available on Huggingface and can be used for finetuning or pretraining large language models to make them multilingual. 
+
 ---
 
 ## References
